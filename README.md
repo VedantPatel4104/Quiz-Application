@@ -22,8 +22,5 @@ A simple console-based Java quiz game that asks multiple-choice questions, check
    java Main  
    ```
 
-### Author  
-- [Your Name](https://github.com/yourusername)
-
 ### License  
 This project is open source under the MIT License.
